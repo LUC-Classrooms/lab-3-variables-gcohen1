@@ -4,13 +4,13 @@
  */
 
 //declare a global variable and assign it a number value on the next line:
-
+var g = 300; 
 
 function setup() {
   createCanvas(400, 300); // creates a drawing canvas
 }
 
-function draw() {
+function draw(g,240,50,50) {
   // background is drawn first
   background(200); // light gray
 
