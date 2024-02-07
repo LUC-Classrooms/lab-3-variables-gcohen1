@@ -10,7 +10,12 @@ function setup() {
   createCanvas(400, 300); // creates a drawing canvas
 }
 
-function draw ellipse(g,200,50,50); {
+
+
+
+
+
+function draw ellipse(g,240,50,50); {
   // background is drawn first
   background(200); // light gray
 
